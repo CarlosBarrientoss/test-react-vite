@@ -14,7 +14,7 @@ function App() {
             <p>Seccion de la pagina</p>
         </section>
         <footer>
-            c  Carlos Arturo Barrientos Suarez
+            Carlos Arturo Barrientos Suarez
         </footer>
 
     </>
